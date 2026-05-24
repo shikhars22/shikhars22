@@ -1,4 +1,4 @@
-# <p align="center">🚀 Shikhar Gupta | MLOps Engineer & Engineering Manager 🚀</p>
+# <p align="center">Shikhar Gupta | MLOps Engineer & Engineering Manager</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skgworks/" target="_blank">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 Executive Summary
+## Executive Summary
 
 I am a **Product & Engineering Leader** specializing in **MLOps, DevOps, and Data Engineering** with nearly a decade of experience building robust software systems, orchestrating infrastructure, and leading cross-functional teams. 
 
@@ -22,9 +22,9 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 🛠️ Core Technical Stack
+## Core Technical Stack
 
-### 🚀 MLOps & Orchestration
+### MLOps & Orchestration
 <p align="left">
   <img src="https://img.shields.io/badge/MLflow-012A4A?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/DVC-F4673A?style=for-the-badge&logo=data-version-control&logoColor=white" alt="DVC" />
@@ -33,7 +33,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
 </p>
 
-### ☁️ Cloud & DevOps Infrastructure
+### Cloud & DevOps Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
@@ -43,7 +43,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
-### 🧠 Data Engineering & Databases
+### Data Engineering & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -53,7 +53,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI" />
 </p>
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -65,7 +65,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
-### 🤖 AI, LLMs & Development Tools
+### AI, LLMs & Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Antigravity-7B1FA2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -78,11 +78,11 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 🚀 Featured MLOps Projects
+## Featured MLOps Projects
 
-### 🎥 1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)
+### 1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)
 <details>
-  <summary><b>📐 View Pipeline Architecture, Cloud Ingest & MLflow Details</b></summary>
+  <summary><b>View Pipeline Architecture, Cloud Ingest & MLflow Details</b></summary>
   
   *An enterprise-grade, fully automated NLP pipeline that scrapes YouTube comments, trains a multi-class sentiment analysis model, and deploys it at scale in the cloud.*
   - **Version Control & Reproducibility**: Integrated **DVC (Data Version Control)** and **Git** to track datasets and parameters with remote storage caches set up on **AWS S3** and **Google Cloud Storage (GCS)**.
@@ -92,9 +92,9 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   - **Stack**: Python, XGBoost, DVC, MLflow, Docker, Kubernetes, AWS SageMaker, S3, Jenkins, GitHub Actions.
 </details>
 
-### 🐳 2. Containerized ML Deployments (dockerMLops)
+### 2. Containerized ML Deployments (dockerMLops)
 <details>
-  <summary><b>🐳 View Container Orchestration Details</b></summary>
+  <summary><b>View Container Orchestration Details</b></summary>
   
   *Constructed streamlined Docker containers for Machine Learning services to establish environmental parity across local development and production.*
   - Standardized lightweight base images and minimized container layer sizing.
@@ -104,11 +104,11 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 🤖 Featured AI Projects & Consultations
+## Featured AI Projects & Consultations
 
-### 👗 1. Vogue AI (freeVirtualStylist)
+### 1. Vogue AI (freeVirtualStylist)
 <details>
-  <summary><b>👗 View App Architecture & LLM Integration</b></summary>
+  <summary><b>View App Architecture & LLM Integration</b></summary>
   
   *A Next.js serverless AI virtual fashion stylist providing personalized outfit recommendations and visual styling boards for Indian users.*
   - **Garment Analysis**: Developed a TypeScript/Next.js backend that calls the **Gemini API** to validate uploaded user photos (confirming they represent a garment/accessory), analyze styling attributes (color palette, fabric, style), and suggest 3 tailored outfits (Casual, Business, Night Out).
@@ -116,9 +116,9 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   - **Stack**: Next.js, React, TypeScript, Gemini API (Flash Models), Vercel, Tailwind.
 </details>
 
-### 💼 2. Jira Lead Management Automation for KROHH Company
+### 2. Jira Lead Management Automation for KROHH Company
 <details>
-  <summary><b>💼 View CRM Automation & Ingestion Mechanics</b></summary>
+  <summary><b>View CRM Automation & Ingestion Mechanics</b></summary>
   
   *A sophisticated agentic AI pipeline that automates sales lead operations—from customer email discovery to CRM Jira ticket creation and outreach.*
   - **Automated CRM Ingestion**: Monitors Gmail inboxes for new business inquiries, extracts complex structures (including multi-batch groups), and automatically populates custom fields (Pax, Location, Arrival dates) in **Jira Project MLM** (Status: *Prospect*).
@@ -127,9 +127,9 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   - **Stack**: Python, Gmail API, Google OAuth2, Jira REST API, JSON.
 </details>
 
-### 🔍 3. Card Reader Extractor for KROHH Company
+### 3. Card Reader Extractor for KROHH Company
 <details>
-  <summary><b>🔍 View Image Harvesting & Parsing Pipeline</b></summary>
+  <summary><b>View Image Harvesting & Parsing Pipeline</b></summary>
   
   *An intelligent OCR extraction pipeline designed to transform unstructured business cards and ID images into structured profile databases.*
   - **Architecture**: Implemented a strict 3-layer architecture separating natural language directives from execution scripts to guarantee deterministic consistency.
@@ -140,11 +140,11 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 📊 Featured Data Engineering Projects
+## Featured Data Engineering Projects
 
-### 🚖 1. NYC Taxi Data Pipeline (Medallion Architecture)
+### 1. NYC Taxi Data Pipeline (Medallion Architecture)
 <details>
-  <summary><b>🚖 View Spark Transformations & Synapse Warehousing Details</b></summary>
+  <summary><b>View Spark Transformations & Synapse Warehousing Details</b></summary>
   
   *An end-to-end Big Data pipeline implementing a strict Medallion Architecture to process massive NYC Taxi trip logs.*
   - **Medallion Layers**: Standardized raw JSON/Parquet ingestion (Bronze), enforced schema validation, cleaning, and deduplication (Silver), and generated rich business aggregates such as trip durations and tip ratios grouped by taxi zones (Gold).
@@ -153,9 +153,9 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   - **Stack**: Azure Data Factory (ADF), Azure Databricks (PySpark), Azure Data Lake Storage (ADLS Gen2), Azure Synapse Data Warehouse, Dedicated SQL Pool.
 </details>
 
-### 🎵 2. Music Charts Time Machine (Spotify-Top50 / Last.fm)
+### 2. Music Charts Time Machine (Spotify-Top50 / Last.fm)
 <details>
-  <summary><b>🎵 View DLT Streaming Tables & Serverless SQL Architecture</b></summary>
+  <summary><b>View DLT Streaming Tables & Serverless SQL Architecture</b></summary>
   
   *A production-grade Big Data pipeline tracking historical song trajectories by pulling daily charts and establishing Slowly Changing Dimensions (SCD Type 2).*
   - **Bronze Ingestion (ADF)**: Configured a parameterized REST ingestion pipeline querying the Last.fm API across multiple countries, using Azure Key Vault to store secrets and standardizing configuration files in the data lake.
@@ -168,11 +168,11 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 🧠 Featured Machine Learning Projects
+## Featured Machine Learning Projects
 
-### 👗 1. Fashion Discovery Engine
+### 1. Fashion Discovery Engine
 <details>
-  <summary><b>👗 View Unsupervised Learning & Trend Analytics details</b></summary>
+  <summary><b>View Unsupervised Learning & Trend Analytics details</b></summary>
   
   *An unsupervised learning recommendation engine discovering global and regional Indian fashion trends to drive automated AI styling.*
   - **Tribal Clustering**: Clustered 1 Million+ fashion items into aesthetic tribes ("vibes") using **Scikit-Learn (K-Means, PCA, DBSCAN)**.
@@ -181,9 +181,9 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
   - **Stack**: Python, FastAPI, Streamlit, Scikit-Learn, Pytrends, Google Cloud Vision API.
 </details>
 
-### 📈 2. Subscription Prediction Model (learningML)
+### 2. Subscription Prediction Model (learningML)
 <details>
-  <summary><b>📈 View Pipeline Automation & SMOTE mechanics</b></summary>
+  <summary><b>View Pipeline Automation & SMOTE mechanics</b></summary>
   
   *An advanced customer classification pipeline predicting subscription conversions, utilizing an Atomic Pipeline design for seamless deployment.*
   - **Atomic Pipeline**: Bundled data cleaning, variable scaling, and the classification model into a single persistent `.joblib` file using Scikit-Learn's `ColumnTransformer`.
@@ -194,7 +194,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 💼 Core Professional Achievements
+## Core Professional Achievements
 
 - **Product Lead & Founder @ detmo.co (Jun 2024 - Dec 2025)**:
   - Conceptualized, built, and marketed a procurement-tech SaaS platform from 0-1 designed to promote and simplify strategic sourcing for mid-sized manufacturing firms.
@@ -209,17 +209,17 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 📜 **Post-Graduate Diploma in DevOps** | *IIIT Bangalore* (2021)
-- 🎓 **Master of Science in Engineering Systems Management** | *Texas A&M University, USA* (2016)
-- 🎓 **Bachelor of Technology in Electronics & Communications Engineering** | *JIITU, Noida, India* (2012)
-- 🏅 **Salesforce Certified Administrator**
-- 🏅 **Microsoft Certified HTML5 and CSS3 Professional**
+- **Post-Graduate Diploma in DevOps** | *IIIT Bangalore* (2021)
+- **Master of Science in Engineering Systems Management** | *Texas A&M University, USA* (2016)
+- **Bachelor of Technology in Electronics & Communications Engineering** | *JIITU, Noida, India* (2012)
+- **Salesforce Certified Administrator**
+- **Microsoft Certified HTML5 and CSS3 Professional**
 
 ---
 
-## 📊 GitHub Profile Overview
+## GitHub Profile Overview
 
 <p align="center">
   <a href="https://github.com/shikhars22">
@@ -241,5 +241,5 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 </h3>
 
 <p align="center">
-  <b>📬 Feel free to reach out via <a href="https://www.linkedin.com/in/skgworks/">LinkedIn</a> or <a href="mailto:shikhars22@gmail.com">Email</a>!</b>
+  <b>Feel free to reach out via <a href="https://www.linkedin.com/in/skgworks/">LinkedIn</a> or <a href="mailto:shikhars22@gmail.com">Email</a>!</b>
 </p>
