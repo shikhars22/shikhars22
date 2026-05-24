@@ -80,8 +80,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ## Featured MLOps Projects
 
-### 1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)
-<details>
+### <details> 1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)
+
   <summary><b>View Pipeline Architecture, Cloud Ingest & MLflow Details</b></summary>
   
   *An enterprise-grade, fully automated NLP pipeline that scrapes YouTube comments, trains a multi-class sentiment analysis model, and deploys it at scale in the cloud.*
