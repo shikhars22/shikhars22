@@ -81,7 +81,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 ## Featured MLOps Projects
 
 <details>
-  <summary><b><h3>1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)</h3></b></summary>
+  <summary><b>1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)</b></summary>
   
   **Core Focus:** Pipeline Architecture, Cloud Ingest & MLflow Details
   
@@ -94,7 +94,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 </details>
 
 <details>
-  <summary><b><h3>2. Containerized ML Deployments (dockerMLops)</h3></b></summary>
+  <summary><b>2. Containerized ML Deployments (dockerMLops)</b></summary>
   
   **Core Focus:** Container Orchestration Details
   
@@ -109,7 +109,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 ## Featured AI Projects & Consultations
 
 <details>
-  <summary><b><h3>1. Vogue AI (freeVirtualStylist)</h3></b></summary>
+  <summary><b>1. Vogue AI (freeVirtualStylist)</b></summary>
   
   **Core Focus:** App Architecture & LLM Integration
   
@@ -120,7 +120,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 </details>
 
 <details>
-  <summary><b><h3>2. Jira Lead Management Automation for KROHH Company</h3></b></summary>
+  <summary><b>2. Jira Lead Management Automation for KROHH Company</b></summary>
   
   **Core Focus:** CRM Automation & Ingestion Mechanics
   
@@ -132,7 +132,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 </details>
 
 <details>
-  <summary><b><h3>3. Card Reader Extractor for KROHH Company</h3></b></summary>
+  <summary><b>3. Card Reader Extractor for KROHH Company</b></summary>
   
   **Core Focus:** Image Harvesting & Parsing Pipeline
   
@@ -148,7 +148,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 ## Featured Data Engineering Projects
 
 <details>
-  <summary><b><h3>1. NYC Taxi Data Pipeline (Medallion Architecture)</h3></b></summary>
+  <summary><b>1. NYC Taxi Data Pipeline (Medallion Architecture)</b></summary>
   
   **Core Focus:** Spark Transformations & Synapse Warehousing Details
   
@@ -160,7 +160,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 </details>
 
 <details>
-  <summary><b><h3>2. Music Charts Time Machine (Spotify-Top50 / Last.fm)</h3></b></summary>
+  <summary><b>2. Music Charts Time Machine (Spotify-Top50 / Last.fm)</b></summary>
   
   **Core Focus:** DLT Streaming Tables & Serverless SQL Architecture
   
@@ -178,7 +178,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 ## Featured Machine Learning Projects
 
 <details>
-  <summary><b><h3>1. Fashion Discovery Engine</h3></b></summary>
+  <summary><b>1. Fashion Discovery Engine</b></summary>
   
   **Core Focus:** Unsupervised Learning & Trend Analytics details
   
@@ -190,7 +190,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 </details>
 
 <details>
-  <summary><b><h3>2. Subscription Prediction Model (learningML)</h3></b></summary>
+  <summary><b>2. Subscription Prediction Model (learningML)</b></summary>
   
   **Core Focus:** Pipeline Automation & SMOTE mechanics
   
