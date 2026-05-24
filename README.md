@@ -67,6 +67,7 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ### 🤖 AI, LLMs & Development Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Antigravity-7B1FA2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
