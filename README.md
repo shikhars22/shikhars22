@@ -83,6 +83,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 <details>
   <summary><b><h3>1. YouTube Sentiment Insights (End-to-End MLOps Pipeline)</h3></b></summary>
   
+  **Core Focus:** Pipeline Architecture, Cloud Ingest & MLflow Details
+  
   *An enterprise-grade, fully automated NLP pipeline that scrapes YouTube comments, trains a multi-class sentiment analysis model, and deploys it at scale in the cloud.*
   - **Version Control & Reproducibility**: Integrated **DVC (Data Version Control)** and **Git** to track datasets and parameters with remote storage caches set up on **AWS S3** and **Google Cloud Storage (GCS)**.
   - **Experimentation & Lifecycle**: Configured **MLflow** to track hyperparameters, model metrics, and artifacts, and utilized the MLflow **Model Registry** to transition models systematically (Staging -> Production).
@@ -93,6 +95,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 <details>
   <summary><b><h3>2. Containerized ML Deployments (dockerMLops)</h3></b></summary>
+  
+  **Core Focus:** Container Orchestration Details
   
   *Constructed streamlined Docker containers for Machine Learning services to establish environmental parity across local development and production.*
   - Standardized lightweight base images and minimized container layer sizing.
@@ -107,6 +111,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 <details>
   <summary><b><h3>1. Vogue AI (freeVirtualStylist)</h3></b></summary>
   
+  **Core Focus:** App Architecture & LLM Integration
+  
   *A Next.js serverless AI virtual fashion stylist providing personalized outfit recommendations and visual styling boards for Indian users.*
   - **Garment Analysis**: Developed a TypeScript/Next.js backend that calls the **Gemini API** to validate uploaded user photos (confirming they represent a garment/accessory), analyze styling attributes (color palette, fabric, style), and suggest 3 tailored outfits (Casual, Business, Night Out).
   - **AI Visualizer & Shopping Integration**: Generates top-down, high-fashion flat-lay image generation prompts representing the outfits and automatically maps clothing recommendations to localized **Google Shopping URLs**.
@@ -115,6 +121,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 <details>
   <summary><b><h3>2. Jira Lead Management Automation for KROHH Company</h3></b></summary>
+  
+  **Core Focus:** CRM Automation & Ingestion Mechanics
   
   *A sophisticated agentic AI pipeline that automates sales lead operations—from customer email discovery to CRM Jira ticket creation and outreach.*
   - **Automated CRM Ingestion**: Monitors Gmail inboxes for new business inquiries, extracts complex structures (including multi-batch groups), and automatically populates custom fields (Pax, Location, Arrival dates) in **Jira Project MLM** (Status: *Prospect*).
@@ -125,6 +133,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 <details>
   <summary><b><h3>3. Card Reader Extractor for KROHH Company</h3></b></summary>
+  
+  **Core Focus:** Image Harvesting & Parsing Pipeline
   
   *An intelligent OCR extraction pipeline designed to transform unstructured business cards and ID images into structured profile databases.*
   - **Architecture**: Implemented a strict 3-layer architecture separating natural language directives from execution scripts to guarantee deterministic consistency.
@@ -140,6 +150,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 <details>
   <summary><b><h3>1. NYC Taxi Data Pipeline (Medallion Architecture)</h3></b></summary>
   
+  **Core Focus:** Spark Transformations & Synapse Warehousing Details
+  
   *An end-to-end Big Data pipeline implementing a strict Medallion Architecture to process massive NYC Taxi trip logs.*
   - **Medallion Layers**: Standardized raw JSON/Parquet ingestion (Bronze), enforced schema validation, cleaning, and deduplication (Silver), and generated rich business aggregates such as trip durations and tip ratios grouped by taxi zones (Gold).
   - **Orchestration & Transformation**: Leveraged **Azure Data Factory (ADF)** to orchestrate ETL pipelines and executed **Azure Databricks (PySpark)** notebooks for high-performance spark-based data cleaning.
@@ -149,6 +161,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 <details>
   <summary><b><h3>2. Music Charts Time Machine (Spotify-Top50 / Last.fm)</h3></b></summary>
+  
+  **Core Focus:** DLT Streaming Tables & Serverless SQL Architecture
   
   *A production-grade Big Data pipeline tracking historical song trajectories by pulling daily charts and establishing Slowly Changing Dimensions (SCD Type 2).*
   - **Bronze Ingestion (ADF)**: Configured a parameterized REST ingestion pipeline querying the Last.fm API across multiple countries, using Azure Key Vault to store secrets and standardizing configuration files in the data lake.
@@ -166,6 +180,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 <details>
   <summary><b><h3>1. Fashion Discovery Engine</h3></b></summary>
   
+  **Core Focus:** Unsupervised Learning & Trend Analytics details
+  
   *An unsupervised learning recommendation engine discovering global and regional Indian fashion trends to drive automated AI styling.*
   - **Tribal Clustering**: Clustered 1 Million+ fashion items into aesthetic tribes ("vibes") using **Scikit-Learn (K-Means, PCA, DBSCAN)**.
   - **Cultural Mapping**: Tracked real-time Indian regional aesthetics (Chikan-kaari, Kanchipuram, Bandhani, etc.) using Google Trends (`pytrends`) and Google Cloud Vision API.
@@ -175,6 +191,8 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 <details>
   <summary><b><h3>2. Subscription Prediction Model (learningML)</h3></b></summary>
+  
+  **Core Focus:** Pipeline Automation & SMOTE mechanics
   
   *An advanced customer classification pipeline predicting subscription conversions, utilizing an Atomic Pipeline design for seamless deployment.*
   - **Atomic Pipeline**: Bundled data cleaning, variable scaling, and the classification model into a single persistent `.joblib` file using Scikit-Learn's `ColumnTransformer`.
