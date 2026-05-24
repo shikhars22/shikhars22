@@ -222,8 +222,12 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 ## 📊 GitHub Profile Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhars22&show_icons=true&theme=tokyonight&count_private=true" alt="Shikhar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhars22&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <a href="https://github.com/shikhars22">
+    <img src="https://github-readme-stats.vercel.app/api?username=shikhars22&show_icons=true&theme=tokyonight&count_private=true" alt="Shikhar's GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/shikhars22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhars22&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  </a>
 </p>
 
 <p align="center">
