@@ -219,20 +219,15 @@ With a strong foundation in both **systems architecture** (Master's from **Texas
 
 ---
 
-## GitHub Profile Overview
+## GitHub Profile Directory
 
-<p align="center">
-  <a href="https://github.com/shikhars22">
-    <img src="https://github-readme-stats.vercel.app/api?username=shikhars22&show_icons=true&theme=tokyonight&count_private=true" alt="Shikhar's GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/shikhars22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhars22&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=shikhars22&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
-</p>
+| Category | Details |
+| :--- | :--- |
+| **Primary Domain** | MLOps, DevOps, Data Engineering & AI Systems |
+| **Production Repositories** | [spotify-top50](https://github.com/shikhars22/spotify-top50) (Data Engineering), [krohhLeadMgmt](https://github.com/shikhars22/krohhLeadMgmt) (AI Sales CRM), [fashionDiscoveryEngine](https://github.com/shikhars22/fashionDiscoveryEngine) (Unsupervised ML), [learningML](https://github.com/shikhars22/learningML) (Machine Learning Pipelines), [freeVirtualStylist](https://github.com/shikhars22/freeVirtualStylist) (Generative AI) |
+| **Cloud Environments** | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) |
+| **Key Frameworks** | Docker, Kubernetes, Apache Spark, Databricks, MLflow, DVC, SageMaker, FastAPI |
+| **Languages & Queries** | Python, TypeScript, SQL, Node.js, C++, R, YAML |
 
 ---
 
